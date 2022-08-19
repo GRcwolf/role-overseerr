@@ -1,0 +1,11 @@
+#+title: Overseerr Role
+#+author: Chris Wolf <chris@chriswolf.ch>
+
+This is a very simple role that installs overseerr with snap.
+
+** Requirements
+The targeted system must already have snap insalled.
+Also the =community.general= collection has to be present.
+
+** Configuration
+Snap doesn't really provide any configuration options, therefore you can't customize anything.

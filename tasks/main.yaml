@@ -1,0 +1,5 @@
+- name: Install overseerr
+  community.general.snap:
+    name: overseerr
+    state: present
+    channel: edge
